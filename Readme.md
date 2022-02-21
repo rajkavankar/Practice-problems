@@ -1,4 +1,4 @@
 # Practice problens in java
 
 1. University problems
-   - [Find](University problems/01_Tables.java)
+   - [Find table of given number](./University%problems/01_Tables.java)
